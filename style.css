@@ -1,0 +1,31 @@
+#bod{
+    background-color: black;
+}
+form{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+#salary{
+    padding: 15px;
+    background-color:white;
+}
+#tax{
+    padding: 15px;
+    background-color:white;
+}
+#interest{
+    padding: 15px;
+    background-color: white);
+}
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    
+}
+h2{
+    text-align: center;
+}
+footer{
+    background-color: aquamarine;
+}
